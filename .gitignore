@@ -1,0 +1,5 @@
+static/
+media/
+.env
+__pycache__/
+*.py[cod]
