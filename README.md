@@ -1,6 +1,6 @@
 # django-rest-api-bolapp
 
-# open 2 tabs in consolve and run below comands. (Tested in Ubuntu)
+# open 2 tabs in console and run below commands. (Tested in Ubuntu)
 
 # In 1st Tab
 source dj_run.sh
@@ -11,7 +11,7 @@ source celery_run.sh
 # can add, update or delete client credentials
 http://127.0.0.1:8000/api/shop-detail/
 
-# cron job url : it will sync shipments from bol websites for clients (Will not work as it is accessing private api)
+# cron job url : it will sync shipments from a website for clients (Will not work now as it is accessing private api)
 http://127.0.0.1:8000/api/sync-shipment/
 
 # list of all shipments
