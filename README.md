@@ -3,11 +3,9 @@
 # open 2 tabs in consolve and run below comands. (Tested in Ubuntu)
 
 # In 1st Tab
-cd bol/
 source dj_run.sh
 
 # In 2nd Tab
-cd bol/
 source celery_run.sh
 
 # can add, update or delete client credentials
